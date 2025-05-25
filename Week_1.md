@@ -1,3 +1,8 @@
+---
+layout: default
+title: Week 1
+---
+
 # Week 1 – January 4, 2025
 
 ### Introduction to SOC, SOC-as-a-Service, and Cybersecurity Service Models
